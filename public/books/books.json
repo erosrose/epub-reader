@@ -1,16 +1,5 @@
 [
   {
-    "creator": "米泽穂信",
-    "creatorFileAs": "米泽穂信",
-    "date": "2020-09-02",
-    "language": "zh",
-    "publisher": "百花洲文艺出版社",
-    "title": "《冰菓》套装（共6册 ，日本推理大师 米泽穗信 出道作，经典日本校园推理动画《冰菓》原作小说）",
-    "cover": "cover-image",
-    "url": "《冰菓》套装（共6册 ，日本推理大师 米泽穗信 出道作，经典日本校园推理动画《冰菓》原作小说）.epub",
-    "bgColorFromCover": "#078a42"
-  },
-  {
     "ISBN": "9787533950057",
     "UUID": "715ED972-2AC3-4F1F-AE68-3FC720AA3D25",
     "title": "生吞",
@@ -165,19 +154,6 @@
     "primary-writing-mode": "horizontal-lr",
     "url": "长夜难明.epub",
     "bgColorFromCover": "#052473"
-  },
-  {
-    "title": "自控力（经典套装三册）",
-    "language": "zh",
-    "creator": "凯利·麦格尼格尔",
-    "creatorFileAs": "凯利·麦格尼格尔",
-    "publisher": "磨铁",
-    "date": "2019-05-01",
-    "cover": "x_my_cover_image",
-    "output encoding": "utf-8",
-    "primary-writing-mode": "horizontal-lr",
-    "url": "自控力（经典套装三册）.epub",
-    "bgColorFromCover": "#afae2d"
   },
   {
     "title": "言叶之庭",
