@@ -11,7 +11,8 @@
     "calibre:timestamp": "2019-01-30T03:53:15.689000+00:00",
     "cover": "cover",
     "url": "生吞.epub",
-    "bgColorFromCover": "#734511"
+    "bgColorFromCover": "#734511",
+    "size": 275288
   },
   {
     "date": "2018-10-20T16:00:00+00:00",
@@ -24,7 +25,8 @@
     "calibre:title_sort": "13.67",
     "cover": "cover",
     "url": "13.67.epub",
-    "bgColorFromCover": "#076184"
+    "bgColorFromCover": "#076184",
+    "size": 435507
   },
   {
     "language": "und",
@@ -38,7 +40,8 @@
     "cover": "cover",
     "calibre:timestamp": "2019-01-29T17:53:06.871000+00:00",
     "url": "永恒的终结.epub",
-    "bgColorFromCover": "#885b39"
+    "bgColorFromCover": "#885b39",
+    "size": 406928
   },
   {
     "date": "2022-06-14T16:00:00+00:00",
@@ -52,7 +55,8 @@
     "calibre:timestamp": "2022-06-04T04:03:38.551000+00:00",
     "cover": "cover",
     "url": "爱，死亡和机器人（全三季）.epub",
-    "bgColorFromCover": "#712c13"
+    "bgColorFromCover": "#712c13",
+    "size": 585565
   },
   {
     "publisher": "重庆出版社",
@@ -66,7 +70,8 @@
     "calibre:timestamp": "2019-01-25T12:28:49.609000+00:00",
     "cover": "cover",
     "url": "三体（全集）.epub",
-    "bgColorFromCover": "#74341c"
+    "bgColorFromCover": "#74341c",
+    "size": 1382831
   },
   {
     "creator": "张寒寺",
@@ -79,7 +84,8 @@
     "calibre:title_sort": "不正常人类症候群",
     "calibre:timestamp": "2016-12-19T03:44:38.814000+00:00",
     "url": "不正常人类症候群.epub",
-    "bgColorFromCover": "#4c3c24"
+    "bgColorFromCover": "#4c3c24",
+    "size": 511179
   },
   {
     "title": "一个陌生女人的来信",
@@ -93,7 +99,8 @@
     "primary-writing-mode": "horizontal-lr",
     "Sigil version": "0.9.7",
     "url": "一个陌生女人的来信.epub",
-    "bgColorFromCover": "#7b3c08"
+    "bgColorFromCover": "#7b3c08",
+    "size": 2137733
   },
   {
     "subject": "①章回小说-中国-现代",
@@ -110,7 +117,8 @@
     "calibre:title_sort": "啼笑因缘（中国现代通俗小说里程碑之作，张爱玲的文坛偶像，鸳鸯蝴蝶派标杆作家张恨水代表作！）",
     "primary-writing-mode": "horizontal-lr",
     "url": "啼笑因缘.epub",
-    "bgColorFromCover": "#604523"
+    "bgColorFromCover": "#604523",
+    "size": 528790
   },
   {
     "language": "zh",
@@ -126,21 +134,8 @@
     "calibre:title_sort": "裂隙之外：全两册（现象级神剧《爱，死亡和机器人》第一季第七集原著，第47届星云赏获奖作品！《冰与火之歌》作者盛赞！ ）",
     "cover": "cover",
     "url": "裂隙之外：全两册.epub",
-    "bgColorFromCover": "#262650"
-  },
-  {
-    "language": "zh",
-    "title": "世界观：现代人必须要懂的科学哲学和科学史（原书第3版）（本书荣获《读者》2019年度影响力图书top10，一本构建认知的底层逻辑的好书。傅盛、陈春花、《返朴》强烈推荐）",
-    "creator": "理查德·德威特(Richard DeWitt)",
-    "creatorFileAs": "理查德·德威特(Richard DeWitt)",
-    "publisher": "北京华章图文信息有限公司",
-    "UUID": "9B72CAE3-3FBD-45CF-B23C-288ABA6C1F0D",
-    "date": "2020-06-30T16:00:00+00:00",
-    "calibre:timestamp": "2020-12-02T11:15:32.315618+00:00",
-    "calibre:title_sort": "世界观：现代人必须要懂的科学哲学和科学史（原书第3版）（本书荣获《读者》2019年度影响力图书top10，一本构建认知的底层逻辑的好书。傅盛、陈春花、《返朴》强烈推荐）",
-    "cover": "cover",
-    "url": "世界观.epub",
-    "bgColorFromCover": "#442464"
+    "bgColorFromCover": "#262650",
+    "size": 794673
   },
   {
     "title": "长夜难明",
@@ -153,7 +148,8 @@
     "output encoding": "utf-8",
     "primary-writing-mode": "horizontal-lr",
     "url": "长夜难明.epub",
-    "bgColorFromCover": "#052473"
+    "bgColorFromCover": "#052473",
+    "size": 372108
   },
   {
     "title": "言叶之庭",
@@ -168,6 +164,7 @@
     "calibre:title_sort": "言叶之庭",
     "calibre:author_link_map": "{\"新海诚\": \"\"}",
     "url": "言叶之庭.epub",
-    "bgColorFromCover": "#1c623a"
+    "bgColorFromCover": "#1c623a",
+    "size": 6482840
   }
 ]
