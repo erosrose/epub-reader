@@ -36,12 +36,12 @@ const trunc = (str, n) => {
   return str.length > n ? `${str.substr(0, n - 3)}...` : str
 }
 
-const closeWindow = () => {
-  import('vitepress').then(({ useRouter }) => {
-    const router = useRouter()
-    router.go('/vue-reader/')
-  })
-}
+// const closeWindow = () => {
+//   import('vitepress').then(({ useRouter }) => {
+//     const router = useRouter()
+//     router.go('/vue-reader/')
+//   })
+// }
 const minimizeWindow = () => {
   if (document.exitFullscreen) {
     document.exitFullscreen()

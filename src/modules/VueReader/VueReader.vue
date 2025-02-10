@@ -200,7 +200,7 @@ const emit = defineEmits(['progress'])
 
 const epubRef = ref<InstanceType<typeof EpubView>>()
 const currentLocation = ref<Rendition['location'] | null>(null)
-const currentHref = ref<string | number | null>(null)
+const currentHref = ref<string | number | undefined>(undefined)
 
 const props = withDefaults(defineProps<Props>(), {
   showToc: true,
@@ -269,8 +269,12 @@ onUnmounted(() => {
   XMLHttpRequest.prototype.open = originalOpen
 })
 
-const next = epubRef.value?.nextPage
-const pre = epubRef.value?.prevPage
+const next = () => {
+  epubRef.value?.nextPage()
+}
+const pre = () => {
+  epubRef.value?.prevPage()
+}
 </script>
 <style>
 /* container */

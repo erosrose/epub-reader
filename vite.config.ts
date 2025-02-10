@@ -39,6 +39,7 @@ export default defineConfig({
     exclude: ['vue-demi'],
   },
   server: {
+    host: '0.0.0.0', // 监听所有网络接口
     port: 8025,
   },
 })

@@ -12,7 +12,6 @@
   "types": "lib/src/modules/index.d.ts",
   "keywords": [
     "vue3",
-    "vue2",
     "epub",
     "epubjs",
     "reader"
@@ -41,13 +40,12 @@
   },
   "dependencies": {
     "epubjs": "^0.3.93",
-    "vue-demi": "latest"
+    "vue-demi": "^0.14.10"
   },
   "devDependencies": {
     "@babel/core": "^7.20.12",
     "@babel/preset-env": "^7.24.0",
     "@element-plus/icons-vue": "^2.1.0",
-    "@esbuild/win32-x64": "^0.17.14",
     "@rollup/plugin-babel": "^6.0.3",
     "@rollup/plugin-commonjs": "^24.0.1",
     "@rollup/plugin-node-resolve": "^15.0.1",
@@ -87,7 +85,6 @@
     "vite-tsconfig-paths": "^4.0.7",
     "vue": "^3.4.21",
     "vue-easy-lightbox": "^1.19.0",
-    "vue-reader": "^1.2.13",
     "vue-router": "^4.2.5",
     "vue2": "npm:vue@2"
   },

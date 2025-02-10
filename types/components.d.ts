@@ -36,7 +36,7 @@ declare module '@vue/runtime-core' {
     ElTree: typeof import('element-plus/es')['ElTree']
     ElUpload: typeof import('element-plus/es')['ElUpload']
     Home: typeof import('./../src/components/reader/Home.vue')['default']
-    Reader: typeof import('./../src/components/reader/index.vue')['default']
+    Reader: typeof import('./../src/components/reader/Reader.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
     SearchMenu: typeof import('./../src/components/reader/menu/SearchMenu.vue')['default']

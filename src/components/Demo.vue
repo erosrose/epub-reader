@@ -19,7 +19,8 @@
 </template>
 <script setup>
 import { ref } from 'vue'
-import VueReader from 'vue-reader'
+// import VueReader from 'vue-reader'
+import { VueReader } from '@/modules/index'
 let isAudioOn = false,
   text = '',
   rendition
